@@ -54,7 +54,7 @@ def main():
     )
 
     st.write(content)
-
+exec(content)
 
 if __name__ == "__main__":
     main()
